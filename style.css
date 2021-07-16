@@ -27,19 +27,17 @@ h1, h2, h3{
 /* column rigth styling */
 
 .column-right{
-    width: 400px;
+    width: 27%;
     color: #fff;
     background-color: #f13180;
 }
 
 .column-right .image{
     text-align: center;
-    padding: 20px;
-    
 }
 
 .column-right img{
-    height: 260px;
+    height: 250px;
     width: 250px;
     border-radius: 50%;
 }
