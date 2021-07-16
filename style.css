@@ -28,6 +28,7 @@ h1, h2, h3{
 
 .column-right{
     width: 27%;
+    height: 100%;
     color: #fff;
     background-color: #f13180;
 }
