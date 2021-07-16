@@ -15,7 +15,6 @@ h1, h2, h3{
 .container{
     display: flex;
     justify-content: center;
-    height: 110vh;
     width: 100%;
 }
 
@@ -28,7 +27,6 @@ h1, h2, h3{
 
 .column-right{
     width: 25%;
-    height: 100vh;
     color: #fff;
     background-color: #f13180;
 }
