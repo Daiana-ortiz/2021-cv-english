@@ -15,7 +15,7 @@ h1, h2, h3{
 .container{
     display: flex;
     justify-content: center;
-    height: 120vh;
+    height: 110vh;
     width: 100%;
 }
 
@@ -47,7 +47,7 @@ h1, h2, h3{
 
 .info-container .text{
     text-align: center;
-    padding: 25px;
+    padding: 15px;
 }
 
 .info-container .text h2{
@@ -59,7 +59,7 @@ h1, h2, h3{
 /* column left styling */
 
 .column-left{
-    width: 400px;
+    width: 600px;
     height: 100%;
     padding: 40px;
 }
@@ -76,7 +76,7 @@ h1, h2, h3{
     }
 
 .column-left .info-container{
-    margin-top: 38px;
+    margin-top: 20px;
 }
 .column-left .info-container h2,h4{
     color: #f13180;
